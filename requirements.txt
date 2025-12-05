@@ -24,7 +24,6 @@ MarkupSafe==3.0.3
 mdurl==0.1.2
 narwhals==2.13.0
 numpy==2.3.5
-openai==2.9.0
 packaging==24.2
 pandas==2.3.3
 pillow==11.3.0
@@ -54,3 +53,5 @@ typing_extensions==4.15.0
 tzdata==2025.2
 urllib3==2.5.0
 watchdog==6.0.0
+langchain==0.3.18
+openai==1.63.0
